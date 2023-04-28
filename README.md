@@ -4,7 +4,7 @@ Using IoT, Deep Learning- ANN &amp; ML models such as  KNN, SVM, LR, Decision Tr
 # Heart-Disease-Prediction
 This dataset provides information on the risk factors for heart disease.
 
-The system uses 15 medical parameters such as age, sex, blood pressure, cholesterol, and obesity for prediction.
+The system uses 14 medical parameters such as age, sex, blood pressure, cholesterol, and obesity for prediction.
 
 ![](https://github.com/sagnikghoshcr7/images/blob/master/Heart.jpg)
 
