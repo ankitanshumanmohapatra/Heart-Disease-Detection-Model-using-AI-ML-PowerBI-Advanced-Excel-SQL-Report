@@ -16,7 +16,7 @@ The system uses 15 medical parameters such as age, sex, blood pressure, choleste
 
 1. get the code from the repository and run the following command
 ```
-git clone https://github.com/sagnikghoshcr7/Heart-Disease-Prediction.git
+git clone https://github.com/ankitanshumanmohapatra/Heary-Disease-Detection-Model-using-IoT-AI-and-ML.git
 ```
 2. install required python packages if previously not installed
 
