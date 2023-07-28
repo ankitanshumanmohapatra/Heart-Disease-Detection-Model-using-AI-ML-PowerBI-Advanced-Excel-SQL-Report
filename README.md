@@ -8,16 +8,9 @@ The system uses 14 medical parameters such as age, sex, blood pressure, choleste
 
 ![](https://github.com/sagnikghoshcr7/images/blob/master/Heart.jpg)
 
-<!-- 
-<img src="https://github.com/sagnikghoshcr7/images/blob/master/Heart.jpg" width="100" height="100">
--->
 
-## Getting started
 
-1. get the code from the repository and run the following command
+
 ```
 git clone https://github.com/ankitanshumanmohapatra/Heary-Disease-Detection-Model-using-IoT-AI-and-ML.git
 ```
-2. install required python packages if previously not installed
-
-3. Finally run on Jupyter Notebook and enjoy 😉
