@@ -15,3 +15,6 @@ The system uses 14 medical parameters such as age, sex, blood pressure, choleste
 ```
 git clone https://github.com/ankitanshumanmohapatra/Heary-Disease-Detection-Model-using-IoT-AI-and-ML.git
 ```
+Deployed Model
+
+![image](https://github.com/ankitanshumanmohapatra/Heart-Disease-Detection-Model-using-IoT-AI-and-ML/assets/122162103/5f66797c-b771-4698-bf79-582589c04e6b)
