@@ -1,5 +1,5 @@
 # Heary-Disease-Detection-Model-using-IoT-AI-and-ML
-Using IoT, Deep Learning- ANN &amp; ML models such as  KNN, SVM, LR, Decision Tree &amp; Random Forest, I deployed a Heart Disease Detection System with 88.5% accuracy.
+Using IoT, Deep Learning- ANN &amp; ML models such as  KNN, SVM, LR, Decision Tree &amp; Random Forest, I deployed a Heart Disease Detection System with 90.5% accuracy.
 
 # Heart-Disease-Prediction
 This dataset provides information on the risk factors for heart disease.
