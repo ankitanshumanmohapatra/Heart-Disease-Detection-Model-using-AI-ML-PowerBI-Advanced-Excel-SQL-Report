@@ -18,3 +18,5 @@ git clone https://github.com/ankitanshumanmohapatra/Heary-Disease-Detection-Mode
 Deployed Model
 
 ![image](https://github.com/ankitanshumanmohapatra/Heart-Disease-Detection-Model-using-IoT-AI-and-ML/assets/122162103/5f66797c-b771-4698-bf79-582589c04e6b)
+![image](https://github.com/ankitanshumanmohapatra/Heart-Disease-Detection-Model-using-IoT-AI-and-ML/assets/122162103/cd061405-e869-4172-a15e-a02f0ca9df39)
+
